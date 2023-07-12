@@ -1,5 +1,5 @@
 # 🥷 ReactNative101
-## 📈 React Native 101: A Beginner's Guide to Building Cross-Platform Apps
+## 📈 React Native 101: A Beginner's Guide for Building Cross-Platform Apps
 
 ####  Welcome to React Native 101, your comprehensive guide to getting started with React Native development! This repository serves as a beginner-friendly resource for those interested in building powerful cross-platform mobile applications using React Native.
 
