@@ -5,7 +5,7 @@
 
 #### In this guide, we'll cover the fundamentals of React Native, including setting up your development environment, understanding the core concepts of React Native, and building your first React Native app from scratch. Whether you're a seasoned JavaScript developer or new to mobile development, this repo will provide you with a solid foundation to start building robust, native-like apps for iOS and Android.
 
-## Installation
+## General Files Installation 
 ## 1) NodeJS : It is the root of any React projects, so make sure you should have installed it in your system.
    Recommended : use LTS version for better support.
    ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/c8315c34-0c0e-4ff0-acba-f6681d148f64)
