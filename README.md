@@ -53,11 +53,24 @@ Do this Steps :
   
   Enable USB Debugging :
   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/e8ccbf88-fdfc-4a01-b3d1-4281e73a099c)
-  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/04bb6e15-308d-4325-986a-8b4f71041b62)
   
-  YAY ! That's it for the Setup.
+  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/04bb6e15-308d-4325-986a-8b4f71041b62)
 
-  ### Installation of React Native
+  ## Environment Variables ( DO IT CAREFULLY )
+  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/19b9cada-4c3a-466c-abbb-e88b3330f073)
+
+  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/98bc5d6c-29b6-406a-ac1d-799b5fc98b1c)
+
+  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/9ee487b8-0e80-418e-a7b1-6beeb74bf1f9)
+  
+  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/8150b7b3-e136-4116-b27f-145241b67813)
+
+  ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/0339e1b7-598e-4276-8135-7b0f098dabda)
+
+
+  ### YAY ! Done with the Setup .
+
+  # Installation of React Native
 
 1) Type this Command on your Command prompt (cmd) or in Vscode Terminal but before that create a folder where you want to create React native apps.
    
@@ -68,3 +81,12 @@ Do this Steps :
 2) Install React Native Doctor : This will help you to find and fix the issues related to installation and checking the dependencies.
    
    ``` npx @react-native-community/cli doctor ```
+
+3) To run the React Native Application , simply type : ``` cd <yourProjectName> ```
+   then run this command : 
+  ``` npx react-native run-android  ```
+
+   So , it will build some of its files before actually deploying the app to your smartphone.
+   Once everything is done , it will look like :
+   
+   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/2f789b83-0311-4076-9dc5-7eedf3408489)
