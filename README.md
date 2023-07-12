@@ -11,7 +11,7 @@
    ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/c8315c34-0c0e-4ff0-acba-f6681d148f64)
 
 ## 2) OpenJDK / JDK : React Native have some dependencies which also includes Java Development kit (JDK).
-  ### Recommended JDK version /OpenJDK :  11   ( as per the ReactNative docs )
+  ### Recommended JDK version /OpenJDK : ``` 11 ```  ( as per the ReactNative docs )
   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/d71e62d7-c340-4f8b-b216-bd77945c6d35)
 
   ## Note : Java JDK version and gradle version should match ! ( what is gradle ? will see further)
@@ -35,7 +35,7 @@ Do this Steps :
 
   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/3b39df2d-255c-4ea7-9d57-0a4549212f16)
 
-  Go to ``` SDK Tools ``` and select the versions : 33.0.0 , 33.0.2 , 30.0.3
+  Go to ``` SDK Tools ``` and select the versions : ``` 33.0.0 ``` , ```33.0.2 ``` , ``` 30.0.3 ```
   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/77860840-1726-491e-9d6c-38438aac88c4)
 
   ### b) Virtual Device Manager : 
@@ -75,7 +75,7 @@ Do this Steps :
 1) Type this Command on your Command prompt (cmd) or in Vscode Terminal but before that create a folder where you want to create React native apps.
    
    ```js
-      npx react-native init <yourProjectName>    // dont inclue <> this brackets.
+      npx react-native init <yourProjectName>    // dont include <> this brackets.
    ```
    
 2) Install React Native Doctor : This will help you to find and fix the issues related to installation and checking the dependencies.
