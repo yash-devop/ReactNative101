@@ -12,6 +12,7 @@
 
 ## 2) OpenJDK / JDK : React Native have some dependencies which also includes Java Development kit (JDK).
   ### Recommended JDK version /OpenJDK : ``` 11 ```  ( as per the ReactNative docs )
+  Link : https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-11
   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/d71e62d7-c340-4f8b-b216-bd77945c6d35)
 
   ## Note : Java JDK version and gradle version should match ! ( what is gradle ? will see further)
