@@ -82,11 +82,18 @@ Do this Steps :
    
    ``` npx @react-native-community/cli doctor ```
 
-3) To run the React Native Application , simply type : ``` cd <yourProjectName> ```
+
+   ## Note : Sometimes gradle doesn't recognise the Java version , so we have to set the jdk path :
+   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/ae64b4d2-06b9-452e-ba76-62591faa89af)
+   
+4) To run the React Native Application , simply type : ``` cd <yourProjectName> ```
    then run this command : 
   ``` npx react-native run-android  ```
+
 
    So , it will build some of its files before actually deploying the app to your smartphone.
    Once everything is done , it will look like :
    
-   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/2f789b83-0311-4076-9dc5-7eedf3408489)
+   ![image](https://github.com/yash-devop/ReactNative101/assets/112558970/2f789b83-0311-4076-9dc5-7eedf3408489) 
+
+## <p align="center"> 🎉 We finally created our First app using React Native. 🎉<p>
